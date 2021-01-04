@@ -1,0 +1,11 @@
+main {
+  background-color: black;
+  padding-top: 3rem;
+}
+
+.MovieGallery {
+  width: 80%;
+  max-width: 1070px;
+  margin-left: auto;
+  margin-right: auto;
+}

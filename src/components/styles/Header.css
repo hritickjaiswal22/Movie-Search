@@ -1,0 +1,14 @@
+.HeaderContainer {
+  font-family: 'Bungee Outline', cursive;
+  color: red;
+  background-color: black;
+  font-size: 2rem;
+  padding-left: 3rem;
+}
+
+.HeaderContainer > .HeaderTitle {
+  font-size: 5rem;
+  margin-bottom: inherit;
+  font-weight: bold;
+  line-height: inherit;
+}

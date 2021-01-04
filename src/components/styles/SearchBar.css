@@ -1,0 +1,27 @@
+.SearchBox {
+  display: flex;
+  justify-content: center;
+  background-color: black;
+  padding-bottom: 2rem;
+}
+
+.SearchForm {
+  width: 60%;
+  max-width: 70rem;
+  text-align: center;
+}
+
+.SearchForm > input {
+  width: 50%;
+  border-radius: 4rem;
+  padding: 1rem;
+  font-family: 'Poppins', sans-serif;
+  transition: width 0.5s;
+  font-size: 1.5rem;
+}
+
+input:focus {
+  outline: none;
+  width: 75%;
+  border: 2px solid #e50914;
+}

@@ -1,0 +1,15 @@
+/* font-family: 'Audiowide', cursive;
+font-family: 'Bungee Outline', cursive;
+font-family: 'Poppins', sans-serif; */
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 10px;
+}
+
+body {
+  background-color: black;
+}

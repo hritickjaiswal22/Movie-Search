@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.MovieArticle {
+  height: 720px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.MovieCard {
+  max-width: 350px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.MoviePoster {
+  width: 100%;
+}
